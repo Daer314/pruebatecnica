@@ -1,0 +1,16 @@
+.menu {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.menuicon{
+    width: auto;
+}
+
+.menutabs {
+    display: flex;
+    margin: auto;
+}
