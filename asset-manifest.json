@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pruebatecnica/static/css/main.c12d1211.chunk.css",
+    "main.js": "/pruebatecnica/static/js/main.f487e681.chunk.js",
+    "main.js.map": "/pruebatecnica/static/js/main.f487e681.chunk.js.map",
+    "runtime-main.js": "/pruebatecnica/static/js/runtime-main.e9c2edce.js",
+    "runtime-main.js.map": "/pruebatecnica/static/js/runtime-main.e9c2edce.js.map",
+    "static/js/2.9d61ac58.chunk.js": "/pruebatecnica/static/js/2.9d61ac58.chunk.js",
+    "static/js/2.9d61ac58.chunk.js.map": "/pruebatecnica/static/js/2.9d61ac58.chunk.js.map",
+    "index.html": "/pruebatecnica/index.html",
+    "static/css/main.c12d1211.chunk.css.map": "/pruebatecnica/static/css/main.c12d1211.chunk.css.map",
+    "static/js/2.9d61ac58.chunk.js.LICENSE.txt": "/pruebatecnica/static/js/2.9d61ac58.chunk.js.LICENSE.txt",
+    "static/media/logo.0137b968.png": "/pruebatecnica/static/media/logo.0137b968.png",
+    "static/media/wall.a0cbd415.png": "/pruebatecnica/static/media/wall.a0cbd415.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c2edce.js",
+    "static/js/2.9d61ac58.chunk.js",
+    "static/css/main.c12d1211.chunk.css",
+    "static/js/main.f487e681.chunk.js"
+  ]
+}
